@@ -2,9 +2,9 @@ import telebot
 from telebot import types
 import requests
 
-TOKEN = '6012480154:AAFkelyCLTXbWDH18Z3PlJg2xeCmpuWdoqQ'
-WEATHER_API_key = '9bc6e116a1af007ffef08750323a24b1'
-# не трогай мой токен!:)
+TOKEN = 'Ваш токен BotFather'
+WEATHER_API_key = 'Ваш токен https://openweathermap.org/api'
+
 city = 'Minsk'
 bot = telebot.TeleBot(TOKEN)
 
