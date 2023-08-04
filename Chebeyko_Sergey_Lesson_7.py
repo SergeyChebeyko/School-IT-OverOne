@@ -46,4 +46,3 @@ for i in range(n):
     if o[i] < t:
         less.append(o[i])
 print(less)
-
